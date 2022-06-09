@@ -1,0 +1,20 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 31
+  },
+  "auditLog": "D:\\projectAll\\midway_test\\midway-project\\logs\\my-midway-project\\.audit\\.ade6c57379f6f1f3a17eafe98fe3e9c0a98c123d-audit.json",
+  "files": [
+    {
+      "date": 1654696977853,
+      "name": "D:\\projectAll\\midway_test\\midway-project\\logs\\my-midway-project\\common-error.log.2022-06-08",
+      "hash": "f2bd4c9717c46bef9ce7c0bbb56fd8d0"
+    },
+    {
+      "date": 1654772691740,
+      "name": "D:\\projectAll\\midway_test\\midway-project\\logs\\my-midway-project\\common-error.log.2022-06-09",
+      "hash": "34ca4b6a2c841ed5d1b2862a54641d7b"
+    }
+  ],
+  "hashType": "md5"
+}
